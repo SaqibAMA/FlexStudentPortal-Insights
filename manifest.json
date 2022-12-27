@@ -1,0 +1,21 @@
+{
+    "name": "Flex++",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "description": "Get hidden insights about your courses on FlexStudent Portal.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "tabs"
+    ],
+    "content_scripts": [
+        {
+            "run_at": "document_end",
+            "matches": ["https://*.nu.edu.pk/*"],
+            "js": ["scripts/jquery-latest.min.js", "scripts/inject.js"]
+        }
+    ]
+}
