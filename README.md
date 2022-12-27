@@ -1,4 +1,4 @@
-# FlexStudentPortal Insights
+# Flex Student Portal Insights
 This is a Chrome extension that allows you to view hidden insights in your course page easily. This was developed with a quick solution in mind and gets the job done in the simplest way possible. Contributions and features welcome.
 
 ## Installation Procedure
@@ -15,7 +15,7 @@ Follow this installation procedure to get started with the extension. The instal
 - Click on ```Load unpacked``` and select the unzipped folder.
 
 ## Usage
-- Visit your Marks page.
+- Visit your Marks page on FlexStudent Portal.
 
 - You will start to see a "Get Insights" button on top of your course title.
 
