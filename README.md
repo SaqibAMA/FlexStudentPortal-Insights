@@ -1,4 +1,7 @@
-# Flex Student Portal Insights
+# Status: Patched. No longer works.
+The workaround has been patched by FlexStudent by implementing Cross-Origin Policy on their website. The extension shall no longer work. Thank you for your  continued support throughout the time.
+
+## Flex Student Portal Insights
 This is a Chrome extension that allows you to view hidden insights in your course page easily. This was developed with a quick solution in mind and gets the job done in the simplest way possible. Contributions and features welcome.
 
 ## Installation Procedure
